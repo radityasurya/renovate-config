@@ -1,0 +1,5 @@
+{
+  "$schema": "https://docs.renovatebot.com/renovate-schema.json",
+  "description": "No CI gates the merge, so every update needs a human review.",
+  "automerge": false
+}
